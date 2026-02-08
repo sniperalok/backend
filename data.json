@@ -1,0 +1,102 @@
+[
+  {
+    "id": "doc_p_01",
+    "name": "Dr. Vijay Prakash Singh",
+    "specialization": "Gastroenterologist",
+    "experienceYears": 45,
+    "hospital": "BIG Apollo Spectra Hospital, Patna",
+    "rating": 4.8,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Vijay+Prakash+Singh",
+    "location": "Patna"
+  },
+  {
+    "id": "doc_p_02",
+    "name": "Dr. Ashish Singh",
+    "specialization": "Orthopedic Surgeon",
+    "experienceYears": 22,
+    "hospital": "Anup Institute of Orthopaedics, Patna",
+    "rating": 4.7,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Ashish+Singh",
+    "location": "Patna"
+  },
+  {
+    "id": "doc_p_03",
+    "name": "Dr. Amit Kumar Sinha",
+    "specialization": "Orthopedics & Spine",
+    "experienceYears": 10,
+    "hospital": "Apollo Spectra, Patna",
+    "rating": 4.4,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Amit+Kumar+Sinha",
+    "location": "Patna"
+  },
+  {
+    "id": "doc_p_04",
+    "name": "Dr. Nikesh Kumar Roshan",
+    "specialization": "Critical Care",
+    "experienceYears": 11,
+    "hospital": "Apollo Spectra, Patna",
+    "rating": 4.5,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Nikesh+K+Roshan",
+    "location": "Patna"
+  },
+  {
+    "id": "doc_d_01",
+    "name": "Dr. Ashok Seth",
+    "specialization": "Cardiologist",
+    "experienceYears": 40,
+    "hospital": "Fortis Escorts Heart Institute, Delhi",
+    "rating": 4.9,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Ashok+Seth",
+    "location": "Delhi"
+  },
+  {
+    "id": "doc_d_02",
+    "name": "Dr. Ajit Singh Narula",
+    "specialization": "Nephrologist",
+    "experienceYears": 41,
+    "hospital": "Fortis Escorts Heart Institute, Delhi",
+    "rating": 4.6,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Ajit+Singh+Narula",
+    "location": "Delhi"
+  },
+  {
+    "id": "doc_d_03",
+    "name": "Dr. Neeraj Bhalla",
+    "specialization": "Cardiology",
+    "experienceYears": 35,
+    "hospital": "Max Healthcare, Delhi",
+    "rating": 4.7,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Neeraj+Bhalla",
+    "location": "Delhi"
+  },
+  {
+    "id": "doc_d_04",
+    "name": "Dr. Rajiv Agarwal",
+    "specialization": "Cardiology",
+    "experienceYears": 30,
+    "hospital": "Max Healthcare, Delhi",
+    "rating": 4.5,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Rajiv+Agarwal",
+    "location": "Delhi"
+  },
+  {
+    "id": "doc_d_05",
+    "name": "Dr. Upendra Kaul",
+    "specialization": "Interventional Cardiology",
+    "experienceYears": 35,
+    "hospital": "Batra Hospital & Medical Research Center, Delhi",
+    "rating": 4.8,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Upendra+Kaul",
+    "location": "Delhi"
+  },
+  {
+    "id": "doc_d_06",
+    "name": "Dr. Sharad Malhotra",
+    "specialization": "Gastroenterologist",
+    "experienceYears": 22,
+    "hospital": "Delhi NCR",
+    "rating": 4.4,
+    "profileImage": "https://via.placeholder.com/300x300?text=Dr+Sharad+Malhotra",
+    "location": "Delhi"
+  }
+]
